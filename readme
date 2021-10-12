@@ -1,0 +1,3 @@
+This subscription calculator was the final challenge of lesson 6 in the Javascript course.
+
+Description: "You’ll create a subscription calculator to provide the user with the cost of plans for different subscription types and durations. You’ll write event listeners, event handlers, function expressions, and callback functions to calculate the numbers and return a message."
